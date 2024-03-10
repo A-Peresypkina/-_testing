@@ -13,3 +13,23 @@ Stages:
     4.3 Identify other features of interaction with clients.
 
 Stack: pandas, numpy, seaborn, matplotlib, plotly, scipy, statsmodels
+
+Сonclusions: 
+1) A data analysis allowed to detect the main customer segments that were affected by churn were identified.
+    - Segment 1: men with an account balance of more than 80,000 (3,551 people, 32.07% churn);
+    - Segment 2: active clients with an estimated income (salary) of more than 50,000 (4,537 people, 25.85% churn);
+    - Segment 3: bank clients with more than 2 bank products and credit scoring of more than 700 (6,621 people, 20.90% churn);
+
+2) Were made recommendations for each segment:
+
+|Sergemt|Recomendations|
+|-------|--------------|
+| #1 |- the ability to independently choose cashback categories (pay extra for choosing a specific category for a month);
+- among loyalty programs, offer more automotive topics (cashback for gasoline), programs related to real estate;|
+| #2 |- higher % on the savings account;
+- offer a profitable salary transfer to the bank "Metanprombank" (in case of receiving a salary in another bank)
+- inform about new available banking products;|
+| #3 |- offer special conditions for insuring property (auto, real estate);
+- credit card with a larger loan amount/longer loan repayment period;
+- the ability to independently choose cashback categories (pay extra for choosing a specific category for a month);
+- inform about new available banking products;|
