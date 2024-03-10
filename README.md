@@ -1,9 +1,10 @@
 # Bank_diploma
 
 Good day, this research was made while I was studying in Yandex.
-Purpose: conduct an analysis of the outflow of clients of Metanprombank
 
-Stages: 
+**Purpose**: conduct an analysis of the outflow of clients of Metanprombank
+
+**Stages**: 
 1) Predict the probability of churn (at the level of the next month) for each client;
 2) Form typical client portraits: identify several of the most striking groups and characterize their main properties;
 3) Analyze the main features that most strongly influence the churn;
@@ -12,9 +13,9 @@ Stages:
     4.2. Suggest measures to reduce outflow;
     4.3 Identify other features of interaction with clients.
 
-Stack: pandas, numpy, seaborn, matplotlib, plotly, scipy, statsmodels
+**Stack**: pandas, numpy, seaborn, matplotlib, plotly, scipy, statsmodels
 
-Сonclusions: 
+**Сonclusions**: 
 1) A data analysis allowed to detect the main customer segments that were affected by churn were identified.
     - Segment 1: men with an account balance of more than 80,000 (3,551 people, 32.07% churn);
     - Segment 2: active clients with an estimated income (salary) of more than 50,000 (4,537 people, 25.85% churn);
