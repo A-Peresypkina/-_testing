@@ -24,6 +24,6 @@ Stack: pandas, numpy, seaborn, matplotlib, plotly, scipy, statsmodels
 
 |Sergemt|Recomendations|
 |-------|--------------|
-| #1 |- the ability to independently choose cashback categories (pay extra for choosing a specific category for a month); - among loyalty programs, offer more automotive topics (cashback for gasoline), programs related to real estate;|
-| #2 |- higher % on the savings account; - offer a profitable salary transfer to the bank "Metanprombank" (in case of receiving a salary in another bank); - inform about new available banking products;|
-| #3 |- offer special conditions for insuring property (auto, real estate); - credit card with a larger loan amount/longer loan repayment period; - the ability to independently choose cashback categories (pay extra for choosing a specific category for a month); - inform about new available banking products;|
+| #1 | 1) the ability to independently choose cashback categories (pay extra for choosing a specific category for a month); 2) among loyalty programs, offer more automotive topics (cashback for gasoline), programs related to real estate;|
+| #2 | 1) higher % on the savings account; 2) offer a profitable salary transfer to the bank "Metanprombank" (in case of receiving a salary in another bank); 3) inform about new available banking products;|
+| #3 | 1) offer special conditions for insuring property (auto, real estate); 2) credit card with a larger loan amount/longer loan repayment period; 3) the ability to independently choose cashback categories (pay extra for choosing a specific category for a month); 4) inform about new available banking products;|
